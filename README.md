@@ -1,3 +1,5 @@
+This repository contains our final powerpoint presentation and the CAD files used to make the renders
+
 # Hercules Cambridge Design Tournament
 KwickLine is a queue barrier system with a retractable screen as the barrier. While the wide screen makes queue-jumping harder, the banner inside the screen can easily be customized.
 
@@ -8,5 +10,3 @@ KwickLine is a queue barrier system with a retractable screen as the barrier. Wh
 
 # Prototype
 ![Prototype](https://user-images.githubusercontent.com/95299427/187574254-78afd1b0-df88-4c8b-a9b7-c5df9ef8fe95.jpeg)
-
-# This repository contains our final powerpoint presentation and the CAD files used to make the renders
